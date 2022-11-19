@@ -8,6 +8,6 @@ class AppRoutes {
 
   static Map<String, Widget Function(BuildContext)> routes = {
     AppRoutes.home: (p0) => const HomeScreen(),
-    AppRoutes.maps: (p0) => const MapsScreen(),
+    AppRoutes.maps: (p0) => const MapScreen(),
   };
 }

@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 
-class MapsScreen extends StatelessWidget {
+class DirectiosScreen extends StatelessWidget {
 //Parametes.
 
-  const MapsScreen({super.key});
+  const DirectiosScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
     //global variables.
 
     return Center(
-      child: Text('MapssScreen'),
+      child: Text('DirectiosdScreen'),
     );
   }
 }
